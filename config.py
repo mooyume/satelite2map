@@ -14,7 +14,7 @@ config = {
     'CHANNELS_IMG': 3,
     'L1_LAMBDA': 100,
     'LAMBDA_GP': 10,
-    'NUM_EPOCHS': 50,
+    'NUM_EPOCHS': 100,
     'LOAD_MODEL': False,
     'SAVE_MODEL': False,
     'CHECKPOINT_DISC': './discriminator',
